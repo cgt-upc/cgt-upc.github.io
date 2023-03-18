@@ -1,7 +1,7 @@
 ---
 layout: 
-title: LOSU no!
-author: Angel
+title: 
+author: 
 categories: 
 ---
 
