@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: 
 title: LOSU no!
 author: Angel
-categories: portada
+categories: 
 ---
 
 CGT ofereix una formació en línia sobre la LOSU.
