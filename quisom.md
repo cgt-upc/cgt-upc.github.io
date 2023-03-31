@@ -8,6 +8,7 @@ Membres de la secció sindical:
 
 PAS Laboral:
 
+- Àngel Aguilera
 - José Enrique Gómez
 - Francisco Morillas
 - Carme Tallón
@@ -17,6 +18,3 @@ PDI Laboral:
 
 - Antonio Reboredo Raposo
 
-Delegat LOLS:
-
-- Àngel Aguilera
