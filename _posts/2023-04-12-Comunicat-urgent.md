@@ -13,9 +13,9 @@ La proposta que ens ha plantejat la patronal és que la nova figura de **profess
 
 Des de CGT, la nostra posició és clara:
 
-    1. Aplicació de la Disposició Transitòria Segona del Conveni Col·lectiu sobre la Regularització del Professorat Associat. Exigim que es regularitzi el professorat associat en frau de llei en figures equivalent a temps complet. Això generaria un increment del potencial docent que permetria cobrir les baixes sobrevingudes.
+1. Aplicació de la Disposició Transitòria Segona del Conveni Col·lectiu sobre la Regularització del Professorat Associat. Exigim que es regularitzi el professorat associat en frau de llei en figures equivalent a temps complet. Això generaria un increment del potencial docent que permetria cobrir les baixes sobrevingudes.
     
-    2. Mentre duri aquesta regularització, increment de la categoria salarial dels associats d'A3 a A4, per tal de compensar la pèrdua de poder adquisitiu generada per la rebaixa horària.
+2. Mentre duri aquesta regularització, increment de la categoria salarial dels associats d'A3 a A4, per tal de compensar la pèrdua de poder adquisitiu generada per la rebaixa horària.
 
 Per tot això, ens oposem frontalment a la reforma del conveni proposada a correcuita per part de les Universitats. Considerem que la lluita contra el frau encobert que hi ha hagut des de fa molts anys en la contractació del professorat associat no pot implicar ni passar pàgina sense reconèixer els drets de companyes que fa molts anys que fan classe al nostre costat ni introduir noves figures de mà d'obra barata en el PDI.
 
