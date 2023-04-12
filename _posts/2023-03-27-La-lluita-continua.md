@@ -73,4 +73,3 @@ _Secció sindical de la CGT a la UPC_
 
 cgt.seccio.sindical@upc.edu
 
-![VOTA CGT](/assets/img/COR-NET.png)
