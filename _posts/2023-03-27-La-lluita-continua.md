@@ -5,9 +5,7 @@ author: Francisco
 categories: portada
 ---
 
-### **La CGT a la UPC: [La lluita contínua](https://cgt-upc.github.io/portada/2023/03/27/La-lluita-continua.html)**
-
-### **La lluita, l’únic camí**
+### **La CGT a la UPC: [La lluita, l’únic camí](https://cgt-upc.github.io/portada/2023/03/27/La-lluita-continua.html)**
 
 cgt.seccio.sindical@upc.edu
 
@@ -69,6 +67,4 @@ La CGT sempre es posiciona en contra de qualsevol repressió, tant laboral com s
 _Secció sindical de la CGT a la UPC_
 
 ### **La lluita, l’únic camí**
-
-cgt.seccio.sindical@upc.edu
 
