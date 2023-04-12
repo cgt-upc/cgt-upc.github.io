@@ -17,7 +17,7 @@ cgt.seccio.sindical@upc.edu
 
 ![VOTA CGT](/assets/img/COR-NET.png)
 
-<!-- more -->
+<!--more-->
 
 **Accions i reivindicacions de la CGT a la UPC (Comitè 2019-2023)**
 
