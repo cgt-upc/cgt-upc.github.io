@@ -7,10 +7,6 @@ categories: portada
 
 ### **La CGT a la UPC: [La lluita contínua](https://cgt-upc.github.io/portada/2023/03/27/La-lluita-continua.html)**
 
-La CGT a la UPC es va constituir l'any 2013 amb persones dels 4 col·lectius (PDI laboral i funcionari, i PAS laboral i funcionari). Des del començament vam lluitar contra tot allò que considerem que és injust, en la mesura de les nostres possibilitats.
-
-L'any 2019 ens vam presentar a les eleccions sindicals del PAS laboral i el resultat va superar amb escreix les nostres expectatives.
-
 ### **La lluita, l’únic camí**
 
 cgt.seccio.sindical@upc.edu
@@ -18,6 +14,9 @@ cgt.seccio.sindical@upc.edu
 ![VOTA CGT](/assets/img/COR-NET.png)
 
 <!--more-->
+La CGT a la UPC es va constituir l'any 2013 amb persones dels 4 col·lectius (PDI laboral i funcionari, i PAS laboral i funcionari). Des del començament vam lluitar contra tot allò que considerem que és injust, en la mesura de les nostres possibilitats.
+
+L'any 2019 ens vam presentar a les eleccions sindicals del PAS laboral i el resultat va superar amb escreix les nostres expectatives.
 
 **Accions i reivindicacions de la CGT a la UPC (Comitè 2019-2023)**
 
