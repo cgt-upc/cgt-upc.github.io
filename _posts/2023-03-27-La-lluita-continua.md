@@ -11,6 +11,14 @@ La CGT a la UPC es va constituir l'any 2013 amb persones dels 4 col·lectius (PD
 
 L'any 2019 ens vam presentar a les eleccions sindicals del PAS laboral i el resultat va superar amb escreix les nostres expectatives.
 
+### **La lluita, l’únic camí**
+
+cgt.seccio.sindical@upc.edu
+
+![VOTA CGT](/assets/img/COR-NET.png)
+
+<!-- more -->
+
 **Accions i reivindicacions de la CGT a la UPC (Comitè 2019-2023)**
 
 - Hem promogut diverses millores dins del comitè d'empresa i dins les seves comissions.
