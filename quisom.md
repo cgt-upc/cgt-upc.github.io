@@ -10,11 +10,8 @@ PAS Laboral:
 
 - Àngel Aguilera
 - José Enrique Gómez
-- Francisco Morillas
-- Carme Tallón
-- Oriol Teixidó
+- Francisco Morillas - Secretari
 
 PDI Laboral:
 
-- Antonio Reboredo Raposo
-
+- Antonio Reboredo Raposo - Delegat LOLS
