@@ -19,8 +19,8 @@ Exigim:
 
 🚩 Sobre les baixes sobrevingudes, l'increment del potencial docent d'aquest procés d'estabilització permetria cobrir gran part de les baixes sobrevingudes. En els casos que fos necessari, el contracte de professorat substitut ha de cobrar el mateix que la figura que substitueix.
 
-![VOTA CGT](/assets/img/Text-Vaga-20-26-A.png)
-![VOTA CGT](/assets/img/Cartell-Vaga-20-26-A.png)
+![Text_Vaga 20-26-A-CGT](/assets/img/Text-Vaga-20-26-A.png)
+![Cartel_Vaga 20-26-A-CGT](/assets/img/Cartell-Vaga-20-26-A.png)
 
 Per tots aquests motius, per una universitat pública, de qualitat, i al servei de la classe treballadora, el 20 i 26 d'abril (torn de matí de 9 a 12:45 torn de tarda de 15 a 18:45), anem a la VAGA!
 
