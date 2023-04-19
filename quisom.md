@@ -9,9 +9,9 @@ Membres de la secció sindical:
 PAS Laboral:
 
 - Àngel Aguilera
-- José Enrique Gómez
-- Francisco Morillas - Secretari
+- José Enrique Gómez - [ Delegat de prevenció ]
+- Francisco Morillas - [ Secretari ]
 
 PDI Laboral:
 
-- Antonio Reboredo Raposo - Delegat LOLS
+- Antonio Reboredo Raposo - [ Delegat LOLS ]
