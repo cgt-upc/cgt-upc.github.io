@@ -21,7 +21,7 @@ Exigim:
 
 ![Text Vaga 20-26-A-CGT](/assets/img/Text-Vaga-20-26-A.png)
 
-![Cartel Vaga 20-26-A-CGT](/assets/img/Cartell-Vaga-20-26-A.png)
+![Cartel Vaga 20-26-A-CGT](/assets/img/Cartell-Vaga-20-26-A.jpeg)
 
 Per tots aquests motius, per una universitat pública, de qualitat, i al servei de la classe treballadora, el 20 i 26 d'abril (torn de matí de 9 a 12:45 torn de tarda de 15 a 18:45), anem a la VAGA!
 
