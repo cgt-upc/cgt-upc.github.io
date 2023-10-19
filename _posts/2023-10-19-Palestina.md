@@ -7,7 +7,7 @@ categories: portada
 
 ![Manifesatació - Dissabte 21 – Jardinets de Gràcia - 18:00](https://cgt-upc.github.io/assets/img/mani-palestina.png)
 
-**Divendres 20 – Claustre UB, Edifici Central, 19:00**
+**Divendres 20 – Porxo UB Raval, 19:00**
 
 **Dissabte 21 – Jardinets de Gràcia 18:00**
 
