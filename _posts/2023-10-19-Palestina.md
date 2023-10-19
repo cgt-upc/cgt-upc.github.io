@@ -7,9 +7,9 @@ categories: portada
 
 ![Manifesatació - Dissabte 21 – Jardinets de Gràcia - 18:00](https://cgt-upc.github.io/assets/img/mani-palestina.png)
 
-**Divendres 20 – Porxo UB Raval, 19:00**
+[**Divendres 20 – Porxo UB Raval, 19:00**
 
-**Dissabte 21 – Jardinets de Gràcia 18:00**
+**Dissabte 21 – Jardinets de Gràcia 18:00**](https://cgt-upc.github.io/portada/2023/10/19/Palestina.html)
 
 Els darrers dies les imatges de la destrucció de Gaza i de la mort de milers de persones ens acompanyen cada dia a la televisió. L’horror continuava amb la destrucció d’un hospital per part dels bombardejos israelians, amb més de 500 morts.
 
