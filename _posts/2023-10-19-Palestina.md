@@ -5,10 +5,11 @@ author: Francisco
 categories: portada
 ---
 
+
 Companyes, companys,
 
-Dimecres 18 – Passeig de Gràcia, 90, 20:00
 Divendres 20 – Claustre UB, Edifici Central, 19:00
+
 Dissabte 21 – Jardinets de Gràcia 18:00
 
 Els darrers dies les imatges de la destrucció de Gaza i de la mort de milers de persones ens acompanyen cada dia a la televisió. L’horror continuava amb la destrucció d’un hospital per part dels bombardejos israelians, amb més de 500 morts.
