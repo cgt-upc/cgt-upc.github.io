@@ -96,7 +96,16 @@ Cada una d'elles, una vida i un projecte vital que Israel vol enterrar sota les 
 Des del 7 d'octubre:
   * Israel ha assassinat 4.368 estudiants a Gaza i Cisjordània, 8.101 han estat ferides. Israel ha destruït 320 escoles.
   * Israel ha assassinat 94 professores universitaris i 230 rnestres d'educació primària i secundària, 750 han estat ferides a la Franja de Gaza.
-  * Totes i cada una de les universitats de Gaza han estat bombardejades: la Universitat Islàmica de Gaza; Al-Azhar, Al-Aqsa; la Universitat Oberta Al-Quds; el College Universitat de Ciències Aplicades; la Universitat de Palestina; la Universitat Al-Israa; la Universitat de Gaza; el College Tècnic Palestí; el College Palestí d'Infermeria i el College Àrab de Ciències Socials.
+  * Totes i cada una de les universitats de Gaza han estat bombardejades:
+        la Universitat Islàmica de Gaza; Al-Azhar, Al-Aqsa;
+        la Universitat Oberta Al-Quds;
+        el College Universitat de Ciències Aplicades;
+        la Universitat de Palestina;
+        la Universitat Al-Israa;
+        la Universitat de Gaza;
+        el College Tècnic Palestí;
+        el College Palestí d'Infermeria i
+        el College Àrab de Ciències Socials.
   * Israel ha assassinat 301treballadores de la salut, i 356 han estat ferides. 40 estan detingudes en presons israelianes
   * Israel ha assassinat 113periodistas
   * Israel ha assassinat 41membres deis equips de protecció civil i 127 ferits
