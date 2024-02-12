@@ -1,4 +1,4 @@
-# Web de la secció sindical CGT PAS-L de la UPC
+# Web de la secció sindical CGT de la UPC
 
 Aquesta web està generada amb [Jekyll](https://jekyllrb.com).
 
