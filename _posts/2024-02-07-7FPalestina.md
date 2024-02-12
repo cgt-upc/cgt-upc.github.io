@@ -51,7 +51,7 @@ Concentracions
         - SANTA COLOMA DE GRAMENET 12:30 PLAÇA DE LA VILA
 * 7/02 TARDA: **MANIFESTACIÓ**. BARCELONA, AL PARC DEL CLOT, 18H, Carrer dels Escultors Claperos, 36
 
-[7F-Vaga](https://cgt-upc.github.io/assets/img/7F-Vaga-CGT.750.jpg)
+![7F-Vaga](https://cgt-upc.github.io/assets/img/7F-Vaga-CGT.750.jpg)
 
 [CGT-UPC](https://cgt-upc.github.io/) volem denunciar el genocidi que està patint la població de Palestina i reivindicar que
 els pressupostos militars els volem a educació i sanitat!
