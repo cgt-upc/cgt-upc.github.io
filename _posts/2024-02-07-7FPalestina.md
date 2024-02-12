@@ -44,11 +44,11 @@ No podem normalitzar la barbàrie. Aturem el genocidi. Defensem el poble palest�
 Concentracions
 
 * **7/02 MATÍ A PARTIR DE LES 12H**: **ATURADA LABORAL**. Accions al matí:
-        - GRÀCIA VALLCARCA 12:30H PLAÇA DE LA VILA
-        - ZONA NORD 12:30H PLAÇA MARAGALL
-        - POBLE SEC – SANTS 12:30H PL.PAÏSOS CATALANS
-        - CIUTAT VELLA 12:00H MACBA
-        - SANTA COLOMA DE GRAMENET 12:30 PLAÇA DE LA VILA
+  * GRÀCIA VALLCARCA 12:30H PLAÇA DE LA VILA
+  * ONA NORD 12:30H PLAÇA MARAGALL
+  * POBLE SEC – SANTS 12:30H PL.PAÏSOS CATALANS
+  * CIUTAT VELLA 12:00H MACBA
+  * SANTA COLOMA DE GRAMENET 12:30 PLAÇA DE LA VILA
 * 7/02 TARDA: **MANIFESTACIÓ**. BARCELONA, AL PARC DEL CLOT, 18H, Carrer dels Escultors Claperos, 36
 
 ![7F-Vaga](https://cgt-upc.github.io/assets/img/7F-Vaga-CGT.750.jpg)
