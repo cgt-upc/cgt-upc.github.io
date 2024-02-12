@@ -62,7 +62,7 @@ des de les universitats per aturar el genocidi a Palestina.
 
 **`7F Assamblea 13:30 UB Central`**
 
-**`És per això que el dia 7 de Febrer VOLEM FER UNA GRAN ASSEMBLEA UNIVERSITÀRIA PER ORGANITZAR-NOS`**
+És per això que el dia **7 de Febrer VOLEM FER UNA GRAN ASSEMBLEA UNIVERSITÀRIA PER ORGANITZAR-NOS**
 
 **`13.30 UB CENTRAL, Aula 0.1 Edifici Josep Carner`**
 
