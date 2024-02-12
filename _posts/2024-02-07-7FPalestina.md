@@ -124,6 +124,6 @@ centres de treball i hem fet milers de petites accions que criden ben alt que no
 `#7FPalestina`
 `#Vaga7F`
 
-**La solidaritat és la millor resposta!**
+**La solidaritat és la millor resposta!** [CGT-UPC.7FPalestina](https://cgt-upc.github.io/portada/2024/02/07/7FPalestina.html)
 
 _Estimem Palestina, defensem la vida, aturem el món_
