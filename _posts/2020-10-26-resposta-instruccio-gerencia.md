@@ -2,7 +2,7 @@
 layout: post
 title: Resposta a la instrucció de gerència al PAS del 26/10
 author: Angel
-categories: portada
+categories: historic
 ---
 
 El passat divendres 23 d'octubre el Comitè d’Empresa i la Junta ens vam reunir amb la gerència per parlar de l’ampliació de les mesures d'adaptació de jornada i mesures de conciliació. 
