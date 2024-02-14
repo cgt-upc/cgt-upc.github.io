@@ -5,8 +5,6 @@ author: Francisco
 categories: portada
 ---
 
-![Manifesatació - Dissabte 21 – Jardinets de Gràcia - 18:00](https://cgt-upc.github.io/assets/img/mani-palestina.png)
-
 **Divendres 20 – Porxo UB Raval, 19:00**
 
 **Dissabte 21 – Jardinets de Gràcia 18:00**
@@ -18,6 +16,8 @@ No obstant, l’ocupació de Palestina, la colonització progressiva de les seve
 Ara, davant els darrers esdeveniments, renovem la crida al conjunt del col·lectiu Universitari a adoptar una actitud activa de denúncia del genocidi que s’està perpetrant contra el Poble de Palestina, amb qui som solidàries. En aquest sentit, [us convidem a difondre](https://cgt-upc.github.io/portada/2023/10/19/Palestina.html) i a participar en les diferents convocatòries que van sortint. Destaquem l’Acte públic contra el genocidi de l’Estat d’Israel que diverses organitzacions universitàries realitzarem al **Portxo UB Raval aquest divendres 20 d’octubre a les 19:00** i la convocatòria de manifestació unitària a Barcelona, a **Jardinets de Gràcia el dissabte 21 d’octubre a les 18:00**.
 
 <!--more-->
+
+![Manifesatació - Dissabte 21 – Jardinets de Gràcia - 18:00](https://cgt-upc.github.io/assets/img/mani-palestina.png)
 
 També et convidem a [signar i difondre la Declaración desde las Universidades del Estado español en apoyo al Pueblo Palestino](https://docs.google.com/forms/d/e/1FAIpQLSdczsHBU0XyRKo0iqsh4MZdmnMLb3Zxv_r0JXVG_MiWKnlJZw/formResponse?pli=1).
 
