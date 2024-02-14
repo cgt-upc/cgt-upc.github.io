@@ -19,6 +19,8 @@ Exigim:
 
 🚩 Sobre les baixes sobrevingudes, l'increment del potencial docent d'aquest procés d'estabilització permetria cobrir gran part de les baixes sobrevingudes. En els casos que fos necessari, el contracte de professorat substitut ha de cobrar el mateix que la figura que substitueix.
 
+<!--more-->
+
 ![Text Vaga 20-26-A-CGT](/assets/img/Text-Vaga-20-26-A.png)
 
 ![Cartel Vaga 20-26-A-CGT](/assets/img/Cartell-Vaga-20-26-A.jpeg)
