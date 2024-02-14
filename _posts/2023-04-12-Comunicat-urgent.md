@@ -11,6 +11,8 @@ Aquest dijous 13 d'abril a les 16:00 se celebrarà una Mesa negociadora de PDI L
 
 La proposta que ens ha plantejat la patronal és que la nova figura de **professorat substitut tingui una retribució equivalent a la del professorat associat, però només durant el període de substitució. Aquesta proposta suposa un empitjorament objectiu de la situació actual, ja prou precària, ja que ara com a mínim les contractacions per baixes es fan fins a final de curs**. A més, la introducció d'aquesta figura comportarà que molts professors/es associades, amb anys d'experiència docent, hagin de tornar a passar concursos (per enèsima vegada) **amb el conseqüent risc de perdre el seu lloc de treball**. Referent al professorat associat, pretenen aprovar la rebaixa fins a 120 hores contemplada a la LOSU, amb la corresponent baixada salarial i, al mateix temps, flexibilitzar les dedicacions docents imposant uns salaris variables al llarg de curs. 
 
+<!--more-->
+
 Des de CGT, la nostra posició és clara:
 
 1. Aplicació de la Disposició Transitòria Segona del Conveni Col·lectiu sobre la Regularització del Professorat Associat. Exigim que es regularitzi el professorat associat en frau de llei en figures equivalent a temps complet. Això generaria un increment del potencial docent que permetria cobrir les baixes sobrevingudes.
