@@ -19,6 +19,8 @@ Mentrestant, l’SMI només ha apujat 180 euros des del 2019, fet que implica un
 
 ## DEFENSEM LA VIDA, ATUREM EL GENOCIDI
 
+<!--more-->
+
 Convoquen vaga perquè la classe treballadora fa massa temps que paguem les conseqüències de les guerres,
 de l’imperialisme i del neocolonialsime.
 
