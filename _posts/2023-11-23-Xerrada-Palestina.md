@@ -12,6 +12,8 @@ La UPC té convenis amb universitats i empreses d'Israel, que fan servir les inv
 
 Per aquest motiu, diversos membres de la comunitat educativa de la UPC han organitzat una xerrada aquest proper **dilluns 27 de Novembre a les 12:30 h** del migdia per denunciar aquesta complicitat i fer pressió als diferents òrgans de govern universitaris. Part de la nostra tasca per aturar aquest genocidi passa per al boicot als lligams capitalistes entre les institucions d'occident i les empreses i institucions d'Israel.
 
+<!--more-->
+
  Per aquesta xerrada comptarem amb diverses estudiants i treballadores, entre altres persones:
   - Laia Haurie, membre de la Coalició Prou Complicitat amb Israel
   - Arnau Carné, militant d'Ítaca i de la campanya BDS
