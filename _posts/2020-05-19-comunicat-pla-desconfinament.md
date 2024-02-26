@@ -2,7 +2,7 @@
 layout: post
 title: Posicionament respecte al Pla de desconfinament
 author: Angel
-categories:
+categories: historic
 ---
 
 ## Posicionament de la Secció Sindical PAS-L de la CGT Pla de desconfinament i reactivació progressiva de l’activitat (Acord CG/2020/03/03)
