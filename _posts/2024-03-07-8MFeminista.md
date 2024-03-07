@@ -13,16 +13,25 @@ Aquest 8 de març la CGT tornem a convocar Vaga General Feminista i sortim al ca
 
 Com sempre diem: "ens sobren els motius" per anar a la Vaga General. Aquí te'ls expliquem:
 
-    1. Bretxa salarial de gènere: cobrem menys que els homes pel mateix treball. Un 20% o 5.907€ menys a l'any.
-    2. Assetjament sexual i/o per raó de gènere als centres de treball: s'estima que entre un 25% i un 50% de les dones hem viscut situacions d'assetjament sexual a la feina. Els plans d'igualtat continuen sent paper mullat pels empresaris.
-    3. Les polítiques de conciliació són lamentables: es segueix acomiadant a embarassades, els permisos per lactància no s'adeqüen a la realitat de les mares, no s'ha normalitzat la jornada laboral adaptada i les dones som les que agafem 9 de cada 10 excedències per cuidar les criatures, veient-nos abocades a tenir menys ingressos, limitades i penalitzades per ser mares.
-    4. Pel repartiment i reconeixement del treball de cures: realitzem la major part d'aquest treball però, tot i que és el que sustenta la vida, ni es reconeix, ni es visibilitza, ni es remunera.
-    5. La precarització laboral, especialment si som migrants: estem sobrerepresentades a les feines més precàries, si som migrants, sovint sense contracte i en condicions indignes. Tot això contribueix a la feminització de la pobresa: un 70% de les persones pobres del món són dones, repartiment de la riquesa JA.
-    6. Més d'un 80% de les persones trans està a l'atur: ni tan sols podem accedir al mercat laboral, són discriminades o directament acomiadades de moltes feines per defensar la seva identitat.
-    7. Les dones pensionistes cobren una mitjana de 455€ mensuals menys que els homes: un clar exemple del patriarcat, matar-se a treballar durant tota la vida sense cap mena de reconeixement per no poder pagar ni la calefacció quan fa fred.
-    8. Pels drets de les treballadores sexuals i contra l'explotació sexual, el proxenetisme i el tràfic de persones amb fins d'explotació sexual.
-    9. Perquè la violència de gènere i els feminicidis NO paren: 56 dones assassinades a mans de les seves parelles o exparelles al 2023, un total de 101 feminicidis si es tenen en compte totes les tipologies del concepte. La situació és massa greu i les institucions no responen. Cridem a l'autodefensa.
-    10. Contra l'ofensiva antifeminista de l'extrema dreta, per la solidaritat internacional, l'antiracisme i l'anticapitalisme des d'una perspectiva transfeminista. Pel suport mutu entre nosaltres i  perquè estem fartes d'aquest sistema que ens menysprea, infantilitza i margina; que ens atorga uns rols injustos i se n'aprofita; que s'ha apropiat de la lluita feminista com a eina de màrqueting per a mantenir-nos dòcils.
+1. Bretxa salarial de gènere: cobrem menys que els homes pel mateix treball. Un 20% o 5.907€ menys a l'any.
+
+2. Assetjament sexual i/o per raó de gènere als centres de treball: s'estima que entre un 25% i un 50% de les dones hem viscut situacions d'assetjament sexual a la feina. Els plans d'igualtat continuen sent paper mullat pels empresaris.
+
+3. Les polítiques de conciliació són lamentables: es segueix acomiadant a embarassades, els permisos per lactància no s'adeqüen a la realitat de les mares, no s'ha normalitzat la jornada laboral adaptada i les dones som les que agafem 9 de cada 10 excedències per cuidar les criatures, veient-nos abocades a tenir menys ingressos, limitades i penalitzades per ser mares.
+
+4. Pel repartiment i reconeixement del treball de cures: realitzem la major part d'aquest treball però, tot i que és el que sustenta la vida, ni es reconeix, ni es visibilitza, ni es remunera.
+
+5. La precarització laboral, especialment si som migrants: estem sobrerepresentades a les feines més precàries, si som migrants, sovint sense contracte i en condicions indignes. Tot això contribueix a la feminització de la pobresa: un 70% de les persones pobres del món són dones, repartiment de la riquesa JA.
+
+6. Més d'un 80% de les persones trans està a l'atur: ni tan sols podem accedir al mercat laboral, són discriminades o directament acomiadades de moltes feines per defensar la seva identitat.
+
+7. Les dones pensionistes cobren una mitjana de 455€ mensuals menys que els homes: un clar exemple del patriarcat, matar-se a treballar durant tota la vida sense cap mena de reconeixement per no poder pagar ni la calefacció quan fa fred.
+
+8. Pels drets de les treballadores sexuals i contra l'explotació sexual, el proxenetisme i el tràfic de persones amb fins d'explotació sexual.
+
+9. Perquè la violència de gènere i els feminicidis NO paren: 56 dones assassinades a mans de les seves parelles o exparelles al 2023, un total de 101 feminicidis si es tenen en compte totes les tipologies del concepte. La situació és massa greu i les institucions no responen. Cridem a l'autodefensa.
+
+10. Contra l'ofensiva antifeminista de l'extrema dreta, per la solidaritat internacional, l'antiracisme i l'anticapitalisme des d'una perspectiva transfeminista. Pel suport mutu entre nosaltres i  perquè estem fartes d'aquest sistema que ens menysprea, infantilitza i margina; que ens atorga uns rols injustos i se n'aprofita; que s'ha apropiat de la lluita feminista com a eina de màrqueting per a mantenir-nos dòcils.
 
 [VAGA 8M - CGT Ensenyament/Universitats](https://cgtcatalunya.cat/10-motius-vaga-general-feminista-8m/)
 
