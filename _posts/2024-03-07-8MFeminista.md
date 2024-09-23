@@ -35,6 +35,8 @@ Com sempre diem: "ens sobren els motius" per anar a la Vaga General. Aquí te'ls
 
 [VAGA 8M - CGT Ensenyament/Universitats](https://cgtcatalunya.cat/10-motius-vaga-general-feminista-8m/)
 
+<!--more-->
+
 **Diem prou! Per un feminisme de classe, combatiu, i que incomodi!**
 
 **Vaga General Feminista 8M 2024. A educació, sumem motius**
