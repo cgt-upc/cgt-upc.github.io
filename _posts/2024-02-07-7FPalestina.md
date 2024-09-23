@@ -5,6 +5,8 @@ author: Francisco
 categories: portada
 ---
 
+**Dimecres 10 d'abril de 2024 – Conferència Albanese - Sala multimèdia, Telecos, UPC Campus Nord, 12:00**
+
 Des de la [CGT Catalunya](https://cgtcatalunya.cat/vaga7f/)
 convoquem una **vaga parcial de 2h al matí i 2h a la tarda**, demà **dimecres 7 de febrer**.
 
