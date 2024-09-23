@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: nopost
 title: Acció per Palestina
 author: Francisco
-categories: portada
+categories: 
 ---
 
 **Dimecres 10 – Conferència Albanese - Sala multimèdia, Telecos, UPC Campus Nord, 12:00**
