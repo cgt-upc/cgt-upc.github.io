@@ -33,4 +33,5 @@ Articles als diaris:
 
 * [“Anatomía de un genocidio” en Gaza (28/03/2024)](https://noticiasobreras.es/2024/03/anatomia-de-un-genocidio-en-gaza/?srsltid=AfmBOooZeuth0ABmtJAKvmtzyDs6_1wvfFmB-CgAjjUv6_iIdyCaIvh7)
 
-* [CGT-UPC](https://cgt-upc.github.io/) / [Signatura per Palestina](https://cgt-upc.github.io/portada/2025/05/13/SignaturaperPalestina.html)
+-
+[CGT-UPC](https://cgt-upc.github.io/) / [Signatura per Palestina](https://cgt-upc.github.io/portada/2025/05/13/SignaturaperPalestina.html)
