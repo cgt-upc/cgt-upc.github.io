@@ -13,6 +13,8 @@ La secció sindical de la CGT a la UPC dona suport a aquesta iniciativa. Us enco
 
 Visca Palestina lliure!
 
+[CGT-UPC](https://cgt-upc.github.io/) / [Signatura per Palestina](https://cgt-upc.github.io/portada/2025/05/13/SignaturaperPalestina.html)
+
 Articles als diaris:
 
 * [Sin respuesta de la Universidad. Silencio ante el genocidio (24/03/2025)](https://www.publico.es/opinion/columnas/respuesta-universidad-silencio-genocidio.html) 
@@ -33,5 +35,3 @@ Articles als diaris:
 
 * [“Anatomía de un genocidio” en Gaza (28/03/2024)](https://noticiasobreras.es/2024/03/anatomia-de-un-genocidio-en-gaza/?srsltid=AfmBOooZeuth0ABmtJAKvmtzyDs6_1wvfFmB-CgAjjUv6_iIdyCaIvh7)
 
--
-[CGT-UPC](https://cgt-upc.github.io/) / [Signatura per Palestina](https://cgt-upc.github.io/portada/2025/05/13/SignaturaperPalestina.html)
