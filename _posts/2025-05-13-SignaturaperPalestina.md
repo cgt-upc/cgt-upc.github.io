@@ -15,15 +15,15 @@ Visca Palestina lliure!
 
 Articles als diaris:
 
-* [Sin respuesta de la Universidad. Silencio ante el genocidio (24/03/2025)](https://www.publico.es/opinion/columnas/respuesta-universidad-silencio-genocidio.html) ,
+* [Sin respuesta de la Universidad. Silencio ante el genocidio (24/03/2025)](https://www.publico.es/opinion/columnas/respuesta-universidad-silencio-genocidio.html) 
 
-* [Israel prepara el golpe final a Gaza y la ocupación permanente de la Franja (05/05/2025)](https://www.publico.es/internacional/israel-prepara-golpe-final-gaza-ocupacion-permanente-franja.html) ,
+* [Israel prepara el golpe final a Gaza y la ocupación permanente de la Franja (05/05/2025)](https://www.publico.es/internacional/israel-prepara-golpe-final-gaza-ocupacion-permanente-franja.html) 
 
-* [Israel va a acabar con la vida de dos millones de palestinos en Gaza (01/05/2025)](https://www.publico.es/culturas/libros/mikel-ayestaran-israel-acabar-vida-dos-millones-palestinos-gaza.html) ,
+* [Israel va a acabar con la vida de dos millones de palestinos en Gaza (01/05/2025)](https://www.publico.es/culturas/libros/mikel-ayestaran-israel-acabar-vida-dos-millones-palestinos-gaza.html) 
  
-* [Gaza, una prisión para dos millones de palestinos (18/05/2021)](https://www.publico.es/internacional/gaza-prision-dos-millones-palestinos.html) ,
+* [Gaza, una prisión para dos millones de palestinos (18/05/2021)](https://www.publico.es/internacional/gaza-prision-dos-millones-palestinos.html) 
   
-* [Relatora de ONU para Palestina: lo que Israel hace es «un libro de texto sobre genocidio» (29/04/2025)](https://www.swissinfo.ch/spa/relatora-de-onu-para-palestina%3a-lo-que-israel-hace-es-%22un-libro-de-texto-sobre-genocidio%22/89234568) ,
+* [Relatora de ONU para Palestina: lo que Israel hace es «un libro de texto sobre genocidio» (29/04/2025)](https://www.swissinfo.ch/spa/relatora-de-onu-para-palestina%3a-lo-que-israel-hace-es-%22un-libro-de-texto-sobre-genocidio%22/89234568) 
   
 * [Los Estados deben suspender relaciones económicas, políticas y militares con Israel para detener el genocidio en Gaza, afirma experta (03/11/2024)](https://news.un.org/es/interview/2024/11/1533966)
 
