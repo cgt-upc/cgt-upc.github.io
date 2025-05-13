@@ -7,7 +7,7 @@ categories: portada
 
 Volem recordar que el 15 de maig, fa 77 de la Nakba palestina, i les polítiques d’ocupació, apartheid i genocidi per part de l’estat d’Israel no han fet més que augmentar.Us animem a no ser còmplices i signar el manifest de la Xarxa Universitaria per Palestina [RUxP](https://www.redxpalestina.org/): Sense resposta de la Universitat: Silenci davant del genocidi.
 
-La secció sindical de la CGT a la UPC dona suport a aquesta iniciativa i us encorratge a signar **abans del 15-mayo 2025**.
+La secció sindical de la CGT a la UPC dona suport a aquesta iniciativa. Us encoratgem a signar **abans del 15-mayo 2025**.
 
 [Signa!, Difon!, Uneix-te!](https://docs.google.com/forms/d/e/1FAIpQLSfIIpwCpzVClbUF8G0gNv0_m_NV3nLT6edcGvcrk2N_5E3BMw/viewform)
 
