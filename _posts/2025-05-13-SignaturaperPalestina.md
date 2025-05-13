@@ -34,7 +34,7 @@ Articles als diaris: [
 
   ["El tribunal de la historia nos juzgará. Y su conclusión será implacable con los que niegan que hay genocidio en Gaza": Francesca Albanese, relatora de la ONU (19/12/2024)](https://www.bbc.com/mundo/articles/c9vkdgy4n7xo)
 
-  [“Anatomía de un genocidio” en Gaza (28/03/2024](https://noticiasobreras.es/2024/03/anatomia-de-un-genocidio-en-gaza/?srsltid=AfmBOooZeuth0ABmtJAKvmtzyDs6_1wvfFmB-CgAjjUv6_iIdyCaIvh7)
+  [“Anatomía de un genocidio” en Gaza (28/03/2024)](https://noticiasobreras.es/2024/03/anatomia-de-un-genocidio-en-gaza/?srsltid=AfmBOooZeuth0ABmtJAKvmtzyDs6_1wvfFmB-CgAjjUv6_iIdyCaIvh7)
 
 ]
 
