@@ -11,6 +11,8 @@ Els propers 20 i 26 d'abril, el professorat de les Universitats Públiques Catal
 
 Exigim: 
 
+<!--more-->
+
 🚩 Estabilització de tot el professorat precari:
 
 🏴 Professorat doctor (professorat associat i postdocs): Estabilització en figures equivalents a temps complet. Mentre dura el procés, increment de la categoria salarial dels associats a A4 per tal de compensar la pèrdua de poder adquisitiu generada per la rebaixa horària.
