@@ -11,6 +11,8 @@ categories: portada
 
 Aquest 8 de març la CGT tornem a convocar Vaga General Feminista i sortim al carrer perquè no deixarem de lluitar, juntes i fortes, per sacsejar aquest estat patriarcal, racista i capitalista, que ens segueix relegant a la precarietat.
 
+<!--more-->
+
 Com sempre diem: "ens sobren els motius" per anar a la Vaga General. Aquí te'ls expliquem:
 
 1. Bretxa salarial de gènere: cobrem menys que els homes pel mateix treball. Un 20% o 5.907€ menys a l'any.
