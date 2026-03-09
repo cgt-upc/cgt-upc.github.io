@@ -12,6 +12,8 @@ convoquem una **vaga parcial de 2h al matí i 2h a la tarda**, demà **dimecres 
 
 [Aturada laboral](http://www.cgtbarcelona.org/ssab/vaga-7-de-febrer-aturada-laboral-per-palestina/) pel 7 de febrer de 2024.
 
+<!--more-->
+
 La classe treballadora acumula anys de crisi econòmica i injustícies.
 Aquests últims tres anys han vist com les desigualtats a Espanya han augmentat més que en l’última dècada sencera.
 El preu mitjà del lloguer ha passat de ser de 720 el 2012 a 1077 euros el 2023.
