@@ -23,7 +23,7 @@ Per què ens presentem?
 
 🚩 Per continuar amb la lluita per als drets laborals i socials, les millores de les condicions de treball, l’ajuda mútua, l’acció directa, la justícia social, l’economia del bé comú, la solidaritat, la igualtat, la llibertat, l’ecologisme, el feminisme, la transparència, la difusió d’informació, la lluita activa, l’autogestió, la coordinació, la cooperació, i el confederalisme.
 
-🚩 Les nostres eines són la democràcia directa assembleària, i la sobirania tecnològica, i l’apoderament digital.
+✊ Les nostres eines són la democràcia directa assembleària, i la sobirania tecnològica, i l’apoderament digital.
 
 Salut!
 
