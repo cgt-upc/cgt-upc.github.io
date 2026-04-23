@@ -9,7 +9,7 @@ Companyes, companys,
 
 Des del dilluns 27 a les 10:00 fins al dijous 30 d'abril a les 09:59 hores es pot votar a les eleccions al Claustre Universitari de la UPC
 
-La CGT es presenta al Claustre dins el sector PDI-B2 amb la candidatura "Universitat Roja i Negra"
+La CGT es presenta al Claustre dins el sector PDI-B2 amb la candidatura "**Universitat Roja i Negra**"
 
 Per què ens presentem?
 
