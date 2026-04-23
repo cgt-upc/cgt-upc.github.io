@@ -7,11 +7,11 @@ categories: portada
 
 Companyes, companys,
 
-Des de el dilluns 27 a les 10:00 fins el dijous 30 d'abril a les 09:59 hores es pot votar a les eleccions al Claustre Universitari de la UPC
+Des del dilluns 27 a les 10:00 fins al dijous 30 d'abril a les 09:59 hores es pot votar a les eleccions al Claustre Universitari de la UPC
 
 La CGT es presenta al Claustre dins el sector PDI-B2 amb la candidatura "Universitat Roja i Negra"
 
-Per que ens presentem?
+Per què ens presentem?
 
 🚩 Per exigir l'estabilització de tot el professorat precari i defensar els seus drets:
 
@@ -19,7 +19,7 @@ Per que ens presentem?
 
 🏴 Professorat no doctor (associats no doctors i investigadors predoctorals): Garantia de continuïtat a la Universitat en la forma de contractes postdoctorals.
 
-🏴 Professorat substitut: Exigim acord de la Mesa de Universitats que els garanteixi un sou digne i tots els seus drets legítims. En els casos que fos necessari cobrir baixes sobrevingudes, el contracte de professorat substitut ha de cobrar el mateix que la figura que substitueix.
+🏴 Professorat substitut: Exigim acord de la Mesa d'Universitats que els garanteixi un sou digne i tots els seus drets legítims. En els casos que fos necessari cobrir baixes sobrevingudes, el contracte de professorat substitut ha de cobrar el mateix que la figura que substitueix.
 
 🚩 Per continuar amb la lluita per als drets laborals i socials, les millores de les condicions de treball, l’ajuda mútua, l’acció directa, la justícia social, l’economia del bé comú, la solidaritat, la igualtat, la llibertat, l’ecologisme, el feminisme, la transparència, la difusió d’informació, la lluita activa, l’autogestió, la coordinació, la cooperació, i el confederalisme.
 
@@ -28,3 +28,4 @@ Per que ens presentem?
 Salut!
 
 Secció sindical de la CGT a la UPC
+
