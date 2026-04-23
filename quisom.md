@@ -14,4 +14,11 @@ PAS Laboral:
 
 PDI Laboral:
 
-- Antonio Reboredo Raposo - [ Delegat LOLS ]
+- Antonio Reboredo - [ Delegat LOLS ]
+- Clement Requile
+- Guillermo Recuero
+- Linus Manubens-Gil
+- Pau Clusella
+- Richard Johannes Lang
+
+
