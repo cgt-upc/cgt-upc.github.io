@@ -1,12 +1,13 @@
 <header class="site-header" role="banner">
 
+<link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon.png" | relative_url }}">
     <div class="wrapper">
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
         <img src="/assets/img/cgt-mini.png" style="height: 2em"></a>
         <a href="https://upc.edu/" class="site-title" alt="Logo CGT"><img alt="Web UPC" src="/assets/img/upc-positiu-p3005.png" style="height: 2em"></a>
-      
+
       {%- if page_paths -%}
         <nav class="site-nav">
           <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -17,7 +18,7 @@
               </svg>
             </span>
           </label>
-  
+
           <div class="trigger">
             {%- for path in page_paths -%}
               {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -30,4 +31,4 @@
       {%- endif -%}
     </div>
   </header>
-  
+
