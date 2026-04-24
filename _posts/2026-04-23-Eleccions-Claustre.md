@@ -47,8 +47,13 @@ Cada any: Vaga Feminista
 
 Hem estat presents a totes les accions organitzades perquè la UPC trenqui relacions amb l’Estat d’Israel i per fer de la UPC una institució i comunitat universitària compromesa contra els genocidis i el feixisme. Des del 2023 i fins ara hem lluitat contra el Genocidi:
 
-[https://cgt-upc.github.io/portada/2023/10/19/Palestina.html](https://cgt-upc.github.io/portada/2023/10/19/Palestina.html) …
-[https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.htm](https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.html) …
+[https://cgt-upc.github.io/portada/2023/10/19/Palestina.html](https://cgt-upc.github.io/portada/2023/10/19/Palestina.html)
+…
+
+[https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.htm](https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.html)
+
+…
+
 [https://www.cgtensenyament.cat/fem-fora-israel-dels-horizon-europe/](https://www.cgtensenyament.cat/fem-fora-israel-dels-horizon-europe/)
 
 Les nostres principals propostes de treball són:
