@@ -56,12 +56,11 @@ Les nostres principals propostes de treball són:
 
 **VOTA Universitat Roja i Negra**
 
-<pre>
-MANUBENS GIL, LINUS MARIA (Universitat Roja i Negra)
-LANG, RICHARD JOHANNES (Universitat Roja i Negra)
-REBOREDO RAPOSO, ANTONIO (Àmbit arquitectura, urbanisme i edificació) (Universitat Roja i Negra)
-RECUERO HINOJOSA, GUILLERMO (Àmbit Enginyeria Industrial) (Universitat Roja i Negra)
-</pre>
+**MANUBENS GIL, LINUS MARIA (Universitat Roja i Negra)**  
+**LANG, RICHARD JOHANNES (Universitat Roja i Negra)**  
+**REBOREDO RAPOSO, ANTONIO (Àmbit arquitectura, urbanisme i edificació) (Universitat Roja i Negra)**  
+**RECUERO HINOJOSA, GUILLERMO (Àmbit Enginyeria Industrial) (Universitat Roja i Negra)**
+
 
 Salut\!
 
