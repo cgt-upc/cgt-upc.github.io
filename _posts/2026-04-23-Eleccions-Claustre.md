@@ -36,11 +36,13 @@ Hem donat visibilitat a la precarietat, hem evitat acomiadaments, hem reclamat e
 Durant el 2023 hem convocat diverses vagues contra la precarietat:
 
 [https://cgt-upc.github.io/portada/2023/04/19/Comunicat-Vaga-20-26.html](https://cgt-upc.github.io/portada/2023/04/19/Comunicat-Vaga-20-26.html)
+
 [https://cgt-upc.github.io/portada/2023/03/16/Vaga-22M.html](https://cgt-upc.github.io/portada/2023/03/16/Vaga-22M.html)
 
 Cada any: Vaga Feminista
 
 [https://cgt-upc.github.io/portada/2024/03/07/8MFeminista.html](https://cgt-upc.github.io/portada/2024/03/07/8MFeminista.html)
+
 [https://cgt-upc.github.io/portada/2026/03/06/Vaga-8M.html](https://cgt-upc.github.io/portada/2026/03/06/Vaga-8M.html)
 
 Hem estat presents a totes les accions organitzades perquè la UPC trenqui relacions amb l’Estat d’Israel i per fer de la UPC una institució i comunitat universitària compromesa contra els genocidis i el feixisme. Des del 2023 i fins ara hem lluitat contra el Genocidi:
