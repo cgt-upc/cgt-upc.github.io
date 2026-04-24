@@ -54,7 +54,7 @@ Les nostres principals propostes de treball són:
 * Treballar per una universitat amb menys jerarquia i amb més democràcia.  
 * Continuar amb la lluita per als drets laborals i socials, les millores de les condicions de treball, l’ajuda mútua, l’acció directa, la justícia social, l’economia del bé comú, la solidaritat, la igualtat, la llibertat, l’ecologisme, el feminisme, la transparència, la difusió d’informació, la lluita activa, l’autogestió, la coordinació, la cooperació, la sobirania tecnològica i el confederalisme.
 
-** VOTA Universitat Roja i Negra **
+**VOTA Universitat Roja i Negra**
 
 <pre>
 MANUBENS GIL, LINUS MARIA (Universitat Roja i Negra)
