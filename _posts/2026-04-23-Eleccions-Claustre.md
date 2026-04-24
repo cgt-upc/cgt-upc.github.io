@@ -49,11 +49,8 @@ Hem estat presents a totes les accions organitzades perquè la UPC trenqui relac
 
 [https://cgt-upc.github.io/portada/2023/10/19/Palestina.html](https://cgt-upc.github.io/portada/2023/10/19/Palestina.html)
 …
-
 [https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.htm](https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.html)
-
 …
-
 [https://www.cgtensenyament.cat/fem-fora-israel-dels-horizon-europe/](https://www.cgtensenyament.cat/fem-fora-israel-dels-horizon-europe/)
 
 Les nostres principals propostes de treball són:
