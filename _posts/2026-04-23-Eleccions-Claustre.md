@@ -17,8 +17,7 @@ Companyes, companys,
 
 **Des del dilluns 27 a les 10:00 fins al dijous 30 d'abril a les 09:59 hores** es pot **Votar** a les eleccions al **Claustre Universitari de la UPC**
 
-La [**CGT**](https://cgt-upc.github.io/) es presenta al Claustre dins el **sector PA-B2** amb la candidatura:  
- "**Universitat Roja i Negra**"
+La [**CGT**](https://cgt-upc.github.io/) es presenta al Claustre dins el **sector PA-B2** amb la candidatura: "**Universitat Roja i Negra**"
 
 **Per què ens presentem?**
 
