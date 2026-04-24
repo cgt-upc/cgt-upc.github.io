@@ -5,6 +5,7 @@ author: Francisco
 categories: portada
 ---
 
+
 Companyes, companys,
 
 **Des del dilluns 27 a les 10:00 fins al dijous 30 d'abril a les 09:59 hores** es pot **Votar** a les eleccions al **Claustre Universitari de la UPC**
