@@ -8,9 +8,12 @@ categories: portada
 
 Companyes, companys,
 
+[_Versió en Català_](https://cgt-upc.github.io/portada/2026/04/23/Eleccions-Claustre.html)  
+[_English version_](https://cgt-upc.github.io/activitats/2026/04/22/Claustre-Elections.html)
+
 **Des del dilluns 27 a les 10:00 fins al dijous 30 d'abril a les 09:59 hores** es pot **Votar** a les eleccions al **Claustre Universitari de la UPC**
 
-La [**CGT**](https://cgt-upc.github.io/) es presenta al Claustre dins el **sector PDI-B2** amb la candidatura:  
+La [**CGT**](https://cgt-upc.github.io/) es presenta al Claustre dins el **sector PA-B2** amb la candidatura:  
  "**Universitat Roja i Negra**"
 
 **Per què ens presentem?**
