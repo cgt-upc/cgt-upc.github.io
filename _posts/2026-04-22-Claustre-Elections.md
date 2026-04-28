@@ -16,7 +16,7 @@ Colleagues,
 
 From 10:00, Monday 27 to 9:59, Thursday 30 of April, you can Vote at UPC university council elections
 
-CGT is running in the PA-B2 sector with the candidacy: “Universitat Roja i Negra” \[Red and Black University\]
+CGT supports in the PA-B2 sector with the candidacy: “Universitat Roja i Negra” \[Red and Black University\]
 
 Why are we running?
 
