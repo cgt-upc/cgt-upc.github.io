@@ -9,6 +9,8 @@ Fa anys que vivim una ofensiva sostinguda contra les condicions de vida de la cl
 
 Però en els últims mesos també hem viscut coses esperançadores: vagues històriques a la comunitat educativa, la pagesia paralitzant autopistes i ports, i manifestacions per l'habitatge que han obligat els governs a moure fitxa. Només lluitant aconseguim millorar les nostres vides.
 
+<!--more-->
+
 Ara és el moment de redoblar la lluita. I per això el pròxim 6 de juny sortim al carrer.
 
 Per preparar-nos, la secció BSC-CGT organitza una xerrada on abordarem els motius que ens porten a manifestar-nos:
