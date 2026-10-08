@@ -14,15 +14,15 @@ La secció sindical de la CGT a la Universitat Politècnica de Catalunya convoqu
 
 ## Ordre del dia
 
-- Definir els reptes que enfrontarem tant el PDI com el PTGAS a la UPC.
+- Definir els reptes que enfrontarem tant el PDI com el PTGAS a la UPC
   - Precarietat
   - Jubilacions
   - Privatitzacions
   - Canvis al sector públic (polítics i legislació)
-- Proposar les estratègies de lluita.
-  - Guanyem múscul.
-  - Cooperació i suport mutu.
-- Mobilitzacions ensenyament, solidaritat amb Palestina i habitatge digne.
+- Proposar les estratègies de lluita
+  - Cooperació i suport mutu
+  - Prenguem embranzida
+- Mobilitzacions ensenyament, solidaritat amb Palestina i habitatge digne
 
 [cgt.seccio.sindical@upc.edu](mailto:cgt.seccio.sindical@upc.edu)
 
