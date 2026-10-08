@@ -12,7 +12,6 @@ La secció sindical de la CGT a la Universitat Politècnica de Catalunya convoqu
 - Dimarts 13 d'octubre a les 13:00 hores
 - Sala Àgora (edif. B3, accés Plaça Telecos) - Campus Diagonal Nord
 - [Google Meet](https://meet.google.com/pdj-maqy-emr)
-- [Esdeveniment calendari](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDFxbHRuNmhuZDlraTltYzF0a2Y3cTJuMmsgY2d0LnNlY2Npby5zaW5kaWNhbEB1cGMuZWR1&tmsrc=cgt.seccio.sindical%40upc.edu)
 
 ## Ordre del dia
 
