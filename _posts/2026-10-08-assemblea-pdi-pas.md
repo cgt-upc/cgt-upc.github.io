@@ -27,4 +27,4 @@ La secció sindical de la CGT a la Universitat Politècnica de Catalunya convoqu
 
 [cgt.seccio.sindical@upc.edu](mailto:cgt.seccio.sindical@upc.edu)
 
-[CGT-UPC](https://cgt-upc.github.io/)
+![Cartell](/assets/img/20261013-assemblea-pdiptgas.jpg "Cartell de la convocatòria")
