@@ -14,4 +14,6 @@ Des de la secció sindical CGT convoquem a tots els col·lectius de la Universit
 
 [cgt.seccio.sindical@upc.edu](mailto:cgt.seccio.sindical@upc.edu)
 
+<!--more-->
+
 ![Cartell](/assets/img/cartell-vaga-11n.png "Cartell de la convocatòria")
