@@ -32,9 +32,9 @@ càrrega docent per a les lectores; la rebaixa de càrrega per a les agregades, 
 
 <a href="/assets/docs/PROGRAMA.CAT.pdf">PROGRAMA</a>
 
-Salut\!
+Salut!
 
-CGT/UPC. Per una Universitat per a la classe treballadora!
+CGT-UPC. Per una Universitat per a la classe treballadora!
 
 [_Català_](/portada/2026/11/18/Eleccions-Comite-PDI.html)
 [_Castellano_](/activitats/2026/11/19/Elecciones-Comite-PDI.html)
