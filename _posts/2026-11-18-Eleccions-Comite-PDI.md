@@ -36,6 +36,8 @@ Salut!
 
 CGT-UPC. Per una Universitat per a la classe treballadora!
 
+[_Programa_](/activitats/2026/11/19/programa-Cat.html)
+
 [_Català_](/portada/2026/11/18/Eleccions-Comite-PDI.html)
 [_Castellano_](/activitats/2026/11/19/Elecciones-Comite-PDI.html)
 [_English_](/activitats/2026/11/19/Elections-PDI.html)
