@@ -35,10 +35,8 @@ PDI Laboral:
 
 PTGAS Laboral:
 
-<span style="color: #8B0000;">★ Àngel Aguilera</span>
-
-<span style="color: #8B0000;">★ José Enrique Gómez</span> - [ Delegat de prevenció ]
-
+<span style="color: #8B0000;">★ Àngel Aguilera</span><br />
+<span style="color: #8B0000;">★ José Enrique Gómez</span> - [ Delegat de prevenció ]<br />
 <span style="color: #8B0000;">★ Francisco Morillas</span> - [ Secretari ]
 
 PTGAS Funcionari:
