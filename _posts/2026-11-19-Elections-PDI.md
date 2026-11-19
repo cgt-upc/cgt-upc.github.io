@@ -40,7 +40,6 @@ CGT-UPC. For a university for the working class!
 [_Castellano_](/activitats/2026/11/19/Elecciones-Comite-PDI.html)
 [_English_](/activitats/2026/11/19/Elections-PDI.html)
 
-CGT candidate list
 <span style="color: #8B0000;">***CGT candidate list***</span>
 
 1.  Linus Maria Manubens Gil
