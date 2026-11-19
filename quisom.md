@@ -9,28 +9,17 @@ Membres de la secció sindical:
 
 PDI Laboral:
 
-<span style="color: #8B0000;">★ Anna Guseva</span>
-
-<span style="color: #8B0000;">★ Antoni Ignaci Llull</span>
-
-<span style="color: #8B0000;">★ Antonio Reboredo</span> - [ Delegat LOLS ]
-
-<span style="color: #8B0000;">★ Ariadna Giné</span>
-
-<span style="color: #8B0000;">★ Clément Requilé</span>
-
-<span style="color: #8B0000;">★ Guillermo Recuero</span>
-
-<span style="color: #8B0000;">★ Ileyk El Mellah</span>
-
-<span style="color: #8B0000;">★ Linus Manubens-Gil</span>
-
-<span style="color: #8B0000;">★ Mercè García</span>
-
-<span style="color: #8B0000;">★ Mireia Segado</span>
-
-<span style="color: #8B0000;">★ Pau Clusella</span>
-
+<span style="color: #8B0000;">★ Anna Guseva</span><br />
+<span style="color: #8B0000;">★ Antoni Ignaci Llull</span><br />
+<span style="color: #8B0000;">★ Antonio Reboredo</span> - [ Delegat LOLS ]<br />
+<span style="color: #8B0000;">★ Ariadna Giné</span><br />
+<span style="color: #8B0000;">★ Clément Requilé</span><br />
+<span style="color: #8B0000;">★ Guillermo Recuero</span><br />
+<span style="color: #8B0000;">★ Ileyk El Mellah</span><br />
+<span style="color: #8B0000;">★ Linus Manubens-Gil</span><br />
+<span style="color: #8B0000;">★ Mercè García</span><br />
+<span style="color: #8B0000;">★ Mireia Segado</span><br />
+<span style="color: #8B0000;">★ Pau Clusella</span><br />
 <span style="color: #8B0000;">★ Richard Johannes Lang</span>
 
 PTGAS Laboral:
