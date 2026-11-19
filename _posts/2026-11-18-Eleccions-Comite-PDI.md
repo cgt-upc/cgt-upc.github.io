@@ -24,8 +24,7 @@ càrrega docent per a les lectores; la rebaixa de càrrega per a les agregades, 
 
 ![Bretxa salarial](/assets/img/Bretxa.png)
 
-<span style="color: #8B0000;">**Rebentem la bombolla universitària:**</span> exigim el trencament de tot acord de la UPC amb l'Estat d'Israel contra el genocidi a Palestina, vinculem les nostres reivindicacions
-salarials a la lluita pel dret a l'habitatge digne i defensem un feminisme de classe contra l'assetjament i els abusos de poder.
+<span style="color: #8B0000;">**Rebentem la bombolla universitària:**</span> exigim el trencament de tota relació de la UPC amb el genocidi a Palestina, les nstitucions i empreses relacionades amb el genocidi i el apartheid, i amb l'Estat d'Israel, vinculem les nostres reivindicacions salarials a la lluita pel dret a l'habitatge digne i defensem un feminisme de classe contra l'assetjament i els abusos de poder.
 
 <span style="color: #8B0000;">***No ens presentem per gestionar la nostra misèria, sinó per organitzar-nos i lluitar!***</span>
 
