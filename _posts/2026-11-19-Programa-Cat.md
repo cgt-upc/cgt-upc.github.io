@@ -196,7 +196,7 @@ per raó de gènere, amb protocols efectius i garantistes.
 &emsp;<span style="color: #8B0000;">&#10168; **Exigim l'erradicació de tota bretxa salarial**</span> i la defensa
 activa dels drets de les persones LGTBIAQ+ i racialitzades en la nostra comunitat universitària.
 
-&emsp;<span style="color: #8B0000;">***Lluitem per una universitat pública al servei de les treballadores!***</span>
+<span style="color: #8B0000;">***Lluitem per una universitat pública al servei de les treballadores!***</span>
 
 <span style="color: #8B0000;">***Vota la candidatura de la CGT en les eleccions al Comitè d'Empresa del PDI!***</span>
 
