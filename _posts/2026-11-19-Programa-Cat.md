@@ -144,7 +144,7 @@ ni remunerades.
 <span style="color: #8B0000;">&#10168; **Garanties reals de continuïtat i estabilització**</span> sense
 processos avaluadors de caràcter punitiu.
 
-<span style="color: #8B0000;">&#10168; **Reducció de la càrrega docent a 18 crèdits**</span>, dret a sexennis i còmput de l'antiguitat prèvia en places prèvies, com les
+<span style="color: #8B0000;">&#10168; **Reducció de la càrrega docent a 12 crèdits**</span>, dret a sexennis i còmput de l'antiguitat prèvia en places prèvies, com les
 d'associada o substituta.
 
 #### <span style="color: #8B0000;">_Fem explotar la bombolla de la universitat! Solidaritzem-nos amb altres lluites laborals per crear un front sindical de classe i antifascista_</span>
