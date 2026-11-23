@@ -148,7 +148,7 @@ processos avaluadors de caràcter punitiu.
  reconeixements de  quinquennis i sexennis i còmput de l'antiguitat prèvia en places prèvies, com les
 d'associada o substituta.
 
-#### <span style="color: #8B0000;">_Fem explotar la bombolla de la universitat! Solidaritzem-nos amb altres lluites laborals per crear un front sindical de classe i antifascista_</span>
+#### <span style="color: #8B0000;">_Fem explotar la bombolla de la universitat! Solidaritzem-nos amb altres lluites laborals per crear un front sindical de classe i antifeixista_</span>
 
 La precarietat laboral dins de les aules és així mateix inseparable de
 les opressions i dels diversos conflictes que travessen la nostra
