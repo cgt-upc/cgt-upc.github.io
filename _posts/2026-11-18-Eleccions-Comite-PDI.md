@@ -11,7 +11,6 @@ categories: portada
 
 *Companyes!*
 
-
 No deixis que altres decideixin per tu des dels despatxos. Per acabar amb el frau i la precarietat d'associades, substitutes, predocs i lectores, per una universitat pública, feminista i solidària amb Palestina, i per un sindicalisme assembleari i sense concessions: <span style="color: #8B0000;">**lluitem per una universitat al servei de les treballadores!**<span style="color: #8B0000;">
 
 <span style="color: #8B0000;">**Des del dimecres 25 de novembre a les 10:00 h fins al divendres 27 de novembre a les 09:00 h vota la candidatura de la CGT!**<span style="color: #8B0000;">
